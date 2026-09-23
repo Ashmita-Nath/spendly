@@ -1,12 +1,14 @@
 # Spendly 💳
 ### AI-Powered Fintech & Business Spend Management Platform
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-spendly--five--xi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://spendly-five-xi.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Recharts](https://img.shields.io/badge/Recharts-2.12-22c55e?style=for-the-badge)](https://recharts.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg?style=for-the-badge)](LICENSE)
+
 
 ---
 
@@ -157,11 +159,12 @@ Spendly comes with ready-to-test mock credentials that are prefilled on the logi
 
 Experience the live interactive deployment of **Spendly**:
 
-### 🔗 **Live Demo URL:** [https://spendly-ashmita.vercel.app](https://spendly-ashmita.vercel.app)
+### 🔗 **Live Demo URL:** [https://spendly-five-xi.vercel.app](https://spendly-five-xi.vercel.app)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Ashmita-Nath/spendly)
 
-> **Quick Tip:** When visiting the live demo, click **Continue** on the login page to immediately explore the full dashboard, approvals board, expense tracking drawers, and cash-flow charts.
+> **Quick Tip:** When visiting the live demo, the demo credentials (`demo@spendly.app` / `demo123`) are prefilled. Simply click **Continue** on the login page to immediately explore the full dashboard, approvals board, expense tracking drawers, and cash-flow charts.
+
 
 ---
 
